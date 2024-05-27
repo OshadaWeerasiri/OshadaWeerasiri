@@ -1,9 +1,21 @@
+<p align="center">
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px></picture>
+</p>
 <h1 align="center">Hi 👋, I'm Oshada Weerasiri</h1>
-<h3 align="center">A passionate UI/UX Designer from Srilanka</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=UI+UX+Designer...;Computer+Science+Student...;Active+Learner...;Love+to+learn+new+stuffs..."></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshadaweerasiri&label=Profile%20views&color=0e75b6&style=flat" alt="oshadaweerasiri" /> </p>
 
+<h3>My Topics</h3>
+
 ---
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+- 🏢 I'm Currently studying in **Faculty of Computing & Technology,University of Kelaniya**
+
 - 🔭 I’m currently working on **Prediction App**
 
 - 🌱 I’m currently learning **Machine Learning**
