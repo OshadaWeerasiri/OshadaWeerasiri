@@ -53,10 +53,10 @@
 
 <br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OshadaWeerasiri&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OshadaWeerasiri&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="oshadaweerasiri" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OshadaWeerasiri&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OshadaWeerasiri&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
     alt="oshadaweerasiri" />
 </p>
       
