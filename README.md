@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Oshada Weerasiri</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=UI+UX+Designer...;Computer+Science+Student...;Active+Learner...;Love+to+learn+new+stuffs..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=UI+UX+Designer;Computer+Science+Student;Active+Learner;Machine+Learning+Enthusiast"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshadaweerasiri&label=Profile%20views&color=0e75b6&style=flat" alt="oshadaweerasiri" /> </p>
