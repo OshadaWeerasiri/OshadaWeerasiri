@@ -16,11 +16,9 @@
 
 - 🏢 I'm Currently studying in **Faculty of Computing & Technology,University of Kelaniya**
 
-- 🔭 I’m currently working on **Prediction App**
+- 🔭 I’m interested in **Data Science**
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Java,C,Python**
+- 🌱 I’m **Machine Learning Enthusiast**
 
 - 📫 How to reach me **oshadaweerasiri@gmail.com**
 
