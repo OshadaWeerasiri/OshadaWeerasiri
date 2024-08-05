@@ -13,6 +13,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+
 - 🏢 I'm Currently studying in **Faculty of Computing & Technology,University of Kelaniya**
 
 - 🔭 I’m interested in **Data Science**
@@ -24,6 +25,7 @@
 - ⚡ Fun fact **I think i am funny**
   
   <br>
+
 
   
 <h3 align="center">Connect with me</h3>
