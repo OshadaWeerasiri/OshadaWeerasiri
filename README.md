@@ -14,11 +14,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 🏢 I'm Currently studying in **Faculty of Computing & Technology,University of Kelaniya**
+- 🏢 I'm Currently studying in **Computer Science**
 
 - 🔭 I’m interested in **Data Science**
 
-- 🌱 I’m **Machine Learning Enthusiast**
+- 🌱 I’m currently learning **Machine Learning**
+
+- 🕶️ Ask me about **Python** and **java**
 
 - 📫 How to reach me **oshadaweerasiri@gmail.com**
 
